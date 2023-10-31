@@ -19,8 +19,8 @@
 }
 
 /* Hide the images by default */
-.mySlides {
-  
+.mySlidesfade {
+  display: hide;
 }
 
 /* Next & previous buttons */
